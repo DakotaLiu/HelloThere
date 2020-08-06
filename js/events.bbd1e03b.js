@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["events"],{aa9c:function(n,t,e){"use strict";e.r(t);var a=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",{attrs:{id:"events"}})},r=[],s={name:"Cart",components:{},data:function(){return{}}},c=s,u=e("2877"),o=Object(u["a"])(c,a,r,!1,null,null,null);t["default"]=o.exports}}]);
+//# sourceMappingURL=events.bbd1e03b.js.map
