@@ -1,13 +1,13 @@
 <template>
   <div id="alert">
     <!-- <v-dialog light v-model="error.show" max-width="300"> -->
-      <v-alert
+      <!-- <v-alert
         type="error"
         v-model="error.show"
         @click="removeErrors"
       >
         {{ error.message }}
-      </v-alert>
+      </v-alert> -->
     <!-- </v-dialog> -->
   </div>
 </template>
